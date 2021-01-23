@@ -1,0 +1,8 @@
+.main{
+    background-color: aqua;
+    border: 2px solid red;
+    text-align: center;
+    width: 30%;
+    margin:0 auto;
+    color: green;
+}
